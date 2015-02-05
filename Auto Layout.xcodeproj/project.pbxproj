@@ -339,6 +339,7 @@
 				INFOPLIST_FILE = "Auto Layout/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -349,6 +350,7 @@
 				INFOPLIST_FILE = "Auto Layout/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -405,6 +407,7 @@
 				0B5110631A80F94D00910D32 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0B5110641A80F94D00910D32 /* Build configuration list for PBXNativeTarget "Auto LayoutTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +416,7 @@
 				0B5110661A80F94D00910D32 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
